@@ -1,0 +1,69 @@
+# =======================================
+# 🧩  PYTHON / LEETCODE PROJECT IGNORE
+# =======================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# PyCharm / JetBrains IDE settings
+.idea/
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Logs / debug / cache
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Build / distribution directories
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# SQLite / test databases
+*.db
+*.sqlite3
+
+# =======================================
+# 🧠  CUSTOM (LeetCode-specific)
+# =======================================
+# Temporary test files, scratchpads, or notes
+scratch/
+drafts/
+temp/
+notes/
+
+# Output results or screenshots
+output/
+screenshots/
+
+# =======================================
+# 📁  END OF FILE
+# =======================================
